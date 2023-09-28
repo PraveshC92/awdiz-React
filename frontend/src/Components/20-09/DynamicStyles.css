@@ -1,0 +1,17 @@
+.Active-Button {
+  background-color: green;
+  width: 200px;
+  height: 70px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+
+.Inactive-Button {
+  background-color: gray;
+  width: 200px;
+  height: 70px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
